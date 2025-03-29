@@ -52,8 +52,10 @@ username: postgres
 
 password: postgres
 
-## **Extra Config**
+## **IMPORTANT Extra Config**
 
 You might need to change the postgres port if you already have postgres port installed in your **local**, refer to below link on how:
 
 **https://www.astronomer.io/docs/astro/cli/configure-cli/#:~:text=Any%20string-,postgres.port,-The%20port%20for**
+
+Remember to create a database in postgres using the command line named **airflow_db**
