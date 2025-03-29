@@ -10,8 +10,13 @@ This projects requires the installation of AstroCLI, refer to below link on how:
 This is a project that uses Airflow to automate getting a random spotify artist's top album/track, below describes the workflow or DAG:
 
 ## Extract
-Using the spotipy API, extract the top tracks from a random artist in an array eg. ["Bruno Mars", "Lady Gaga", "The Weeknd", "Kendrick Lamar", "Billie Eilish", "Coldplay", "SZA", "Rihanna", "Bad Bunny", "Taylor Swift"]
-and load into dataframe
+Using the spotipy API, extract the top tracks from a random artist in an array eg. 
+
+["Bruno Mars", "Lady Gaga", "The Weeknd", "Kendrick Lamar", "Billie Eilish", "Coldplay", "SZA", "Rihanna", "Bad Bunny", "Taylor Swift"]
+
+
+and load the data into a dataframe
+
 you can configure the array if you want.
 ## Transform 
 Transform the dataFrame
