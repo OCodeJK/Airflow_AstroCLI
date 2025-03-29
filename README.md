@@ -40,14 +40,13 @@ astro dev start
 
 once running successfully, Airflow should popup in your browser, if it doesn't use localhost:8080 (__default port for Airflow__)
 
-Airflow credentials:
+## Airflow credentials:
 
 username: admin
 
 password: admin
 
-
-Postgres credentials:
+## Postgres credentials:
 
 username: postgres
 
