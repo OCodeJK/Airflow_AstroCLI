@@ -11,11 +11,13 @@ This is a project that uses Airflow to automate getting a random spotify artist'
 
 Packages used can be inferred in the requirements.txt
 
-### **To Run**
+## **To Run**
 
-Use astro dev start
+in terminal type:
 
-### **Extra Config**
+astro dev start
+
+## **Extra Config**
 
 You might need to change the postgres port if you already have postgres port installed in your **local**, refer to below link on how:
 
