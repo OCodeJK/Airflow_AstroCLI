@@ -5,7 +5,7 @@ This projects requires the installation of AstroCLI, refer to below link on how:
 **https://www.astronomer.io/docs/astro/cli/install-cli/**
 
 
-# **Documentation**
+## **Documentation**
 
 This is a project that uses Airflow to automate getting a random spotify artist's top album/track
 
