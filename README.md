@@ -38,6 +38,17 @@ in terminal type:
 
 astro dev start
 
+once running successfully, Airflow should popup in your browser, if it doesn't use localhost:8080 (default port for Airflow)
+
+Airflow credentials:
+username: admin
+password: admin
+
+
+Postgres credentials:
+username: postgres
+password: postgres
+
 ## **Extra Config**
 
 You might need to change the postgres port if you already have postgres port installed in your **local**, refer to below link on how:
