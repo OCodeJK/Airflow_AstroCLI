@@ -43,12 +43,14 @@ once running successfully, Airflow should popup in your browser, if it doesn't u
 Airflow credentials:
 
 username: admin
+
 password: admin
 
 
 Postgres credentials:
 
 username: postgres
+
 password: postgres
 
 ## **Extra Config**
