@@ -1,6 +1,6 @@
 # ***IMPORTANT*** 
 
-This projects requires the installation of AstroCLI, refer to below link on how:
+This projects requires the installation of AstroCLI which means also Docker too, refer to below link on how:
 
 AstroCLI:
 **https://www.astronomer.io/docs/astro/cli/install-cli/**
@@ -8,6 +8,8 @@ AstroCLI:
 Spotify Dev Account:
 **https://developer.spotify.com/**
 
+Docker:
+**https://docs.docker.com/desktop/**
 
 ## **Documentation**
 
