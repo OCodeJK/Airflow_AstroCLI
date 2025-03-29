@@ -19,8 +19,10 @@ and load the data into a dataframe
 
 you can configure the array if you want.
 ## Transform 
-Transform the dataFrame
+Transform the dataframe into more meaningful data like changing the release date column to a **datetime** datatype
 ## Load
+Load the dataframe into postgres database
+
 
 Packages used can be inferred in the requirements.txt
 - spotipy
