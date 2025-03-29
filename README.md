@@ -58,4 +58,7 @@ You might need to change the postgres port if you already have postgres port ins
 
 **https://www.astronomer.io/docs/astro/cli/configure-cli/#:~:text=Any%20string-,postgres.port,-The%20port%20for**
 
+
 Remember to create a database in postgres using the command line named **airflow_db**
+
+In Airflow configure the connection settings to postgres also so it can link properly
