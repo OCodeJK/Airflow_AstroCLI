@@ -2,7 +2,11 @@
 
 This projects requires the installation of AstroCLI, refer to below link on how:
 
+AstroCLI:
 **https://www.astronomer.io/docs/astro/cli/install-cli/**
+
+Spotify Dev Account:
+**https://developer.spotify.com/**
 
 
 ## **Documentation**
